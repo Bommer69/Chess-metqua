@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "chessgame-met-cb627",
+    "site": "chess-game-60b9a",
     "public": "build",
     "ignore": [
       "firebase.json",

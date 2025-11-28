@@ -6,13 +6,13 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCroSHO5d-ajaUQSB7RxxSy9qb6mtqR9XM",
-    authDomain: "chessgame-met.firebaseapp.com",
-    projectId: "chessgame-met",
-    storageBucket: "chessgame-met.appspot.com", // <-- sửa lại dòng này
-    messagingSenderId: "663267861412",
-    appId: "1:663267861412:web:b312dba7ff5bc95ce5d731",
-    measurementId: "G-6Y3VRH9Y0B"
+        apiKey: "AIzaSyC1-eDl1_ItClPjXqT0gsZN0mCDfGSOdZs",
+        authDomain: "chess-game-60b9a.firebaseapp.com",
+        projectId: "chess-game-60b9a",
+        storageBucket: "chess-game-60b9a.firebasestorage.com",
+        messagingSenderId: "387638157548",
+        appId: "1:387638157548:web:c9d9fdefeb8525bc1d05c9",
+        measurementId: "G-5SZ4SCL14W"
 };
 
 

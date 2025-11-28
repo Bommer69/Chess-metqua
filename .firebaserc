@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "chessgame-met"
-  }
+    "default": "chess-game",
+    "y": "chess-game-60b9a"
+  },
+  "targets": {},
+  "etags": {}
 }
